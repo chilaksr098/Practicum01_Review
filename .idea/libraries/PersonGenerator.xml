@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PersonGenerator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Person_Model/dist/PersonGenerator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
